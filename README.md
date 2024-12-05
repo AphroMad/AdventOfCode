@@ -4,7 +4,7 @@ Solutions des défis de programmation [Advent of Code](https://adventofcode.com)
 
 ## Auteur
 Pierre Marsaa  
-[Mon Site Web](https://oxyfoo.com/pierre/linktree/)
+[Mon Site Web](https://oxyfoo.com/pierre/)
 
 ## Contenu
 - Jour 1 : Calculs de distance et de similarité entre listes
